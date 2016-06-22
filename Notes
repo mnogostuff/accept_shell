@@ -1,0 +1,6 @@
+- requires root
+- can be set as an environment variable if root isn't available... but might not work
+- make install to get it installed in the system
+- doesn't seem to work with apache
+- Does it work with enhanced security?
+- Auditd kills the ld.so.preload
